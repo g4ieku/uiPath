@@ -1,2 +1,0 @@
-# uiPath
-uiPath Robots
